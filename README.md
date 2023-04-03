@@ -10,6 +10,10 @@ View the class diagram here: [Class Diagram](https://github.com/dmitry-kiselev-1
 
 View the solution projects here: [Solution Projects](https://github.com/dmitry-kiselev-1/paylocity-benefits/blob/main/Paylocity.Benefits/Solution.png)
 
+## Swagger Interface
+
+View the api project swagger interface here: [Swagger Interface](https://github.com/dmitry-kiselev-1/paylocity-benefits/blob/main/Paylocity.Benefits/Swagger.png)
+
 ## Features
 
 - Create employees and add dependents
