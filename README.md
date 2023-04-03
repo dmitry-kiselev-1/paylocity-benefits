@@ -2,6 +2,10 @@
 
 This solution demonstrates a Clean Architecture implementation of an Employee Benefits Calculator using .NET 6, MediatR, MongoDB, and Redis. The system calculates the cost of employee benefits packages and provides a payroll preview.
 
+## Class Diagram
+
+View the class diagram here: [Class Diagram](https://github.com/dmitry-kiselev-1/paylocity-benefits/blob/main/Paylocity.Benefits/Paylocity.Benefits.Application.png)
+
 ## Features
 
 - Create employees and add dependents
