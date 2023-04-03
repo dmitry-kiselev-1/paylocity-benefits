@@ -6,6 +6,10 @@ This solution demonstrates a Clean Architecture implementation of an Employee Be
 
 View the class diagram here: [Class Diagram](https://github.com/dmitry-kiselev-1/paylocity-benefits/blob/main/Paylocity.Benefits/Paylocity.Benefits.Application.png)
 
+## Solution Projects
+
+View the solution projects here: [Solution Projects](https://github.com/dmitry-kiselev-1/paylocity-benefits/blob/main/Paylocity.Benefits/Solution.png)
+
 ## Features
 
 - Create employees and add dependents
