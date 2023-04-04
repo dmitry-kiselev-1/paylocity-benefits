@@ -1,6 +1,6 @@
 # Employee Benefits Calculator
 
-This solution demonstrates a Clean Architecture implementation of an Employee Benefits Calculator using .NET 6, MediatR, MongoDB, and Redis. The system calculates the cost of employee benefits packages and provides a payroll preview.
+This solution demonstrates a Clean Architecture implementation of an Employee Benefits Calculator by CQRS, using .NET 6, MediatR, MongoDB, and Redis. The system calculates the cost of employee benefits packages and provides a payroll preview.
 
 ## Class Diagram
 
